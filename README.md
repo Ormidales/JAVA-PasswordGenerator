@@ -6,7 +6,9 @@ Ce projet permet de générer des mots de passe aléatoires et sécurisés en ja
 
 Pour utiliser ce projet, vous devez d'abord le télécharger ou le cloner à partir de ce dépôt GitHub.
 
+```
 git clone https://github.com/Ormidales/JAVA-PasswordGenerator.git
+```
 
 Ensuite, vous pouvez importer le projet dans votre environnement de développement préféré, comme Eclipse ou IntelliJ.
 
